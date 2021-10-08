@@ -1,0 +1,12 @@
+/*!************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/source/index.css ***!
+  \************************************************************************/
+body{
+    background-color: yellow;
+}
+p{
+    color: red;
+}
+div{
+    background-image: url(./7b9cfeb22ff0f184affd.png);
+}
